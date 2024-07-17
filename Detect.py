@@ -1,7 +1,7 @@
 import cv2
 from ultralytics import YOLO
 from PIL import Image
-
+# Doesn't support YOLOv9 !!!!!!!!!
 # Load the YOLOv8 model
 model = YOLO('DSM2.pt')
 
