@@ -17,3 +17,5 @@ But I just made the detection, so why don't you guys make a feature that notifie
 근데 저는 일단 감지만 만들었어요. 감지는 다 되니까 하품이나 졸 때 알림을 해준다거나 하는 기능은 너희들이 만들어보면 어떨까요?
 
 python Detect.py
+
+새로운 성능 높은 모델을 이용하고 싶으시면 연락 주세용
